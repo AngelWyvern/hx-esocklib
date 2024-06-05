@@ -1,0 +1,3 @@
+# This file only exists to fix intellisense
+-p src
+--hl esocklib.hl
