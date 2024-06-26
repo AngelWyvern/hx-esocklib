@@ -1,6 +1,6 @@
 {
 	"name":"esocklib",
-	"url":"https://github.com/AngelDTF/hx-esocklib",
+	"url":"https://github.com/AngelWyvern/hx-esocklib",
 	"license":"GPL",
 	"tags":[ "cross", "sys", "event", "signal", "socket", "tcp", "udp" ],
 	"description":"An event-based implementation of TCP and UDP sockets.",
