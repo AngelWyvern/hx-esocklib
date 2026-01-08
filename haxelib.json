@@ -1,11 +1,11 @@
 {
 	"name":"esocklib",
 	"url":"https://github.com/AngelWyvern/hx-esocklib",
-	"license":"GPL",
+	"license":"MIT",
 	"tags":[ "cross", "sys", "event", "signal", "socket", "tcp", "udp" ],
 	"description":"An event-based implementation of TCP and UDP sockets.",
-	"version":"0.0.1",
+	"version":"0.0.2",
 	"classPath":"src/",
-	"releasenote":"Early development, code is subject to change and may include bugs.",
+	"releasenote":"Change to MIT License",
 	"contributors":[ "AngelBot" ]
 }
