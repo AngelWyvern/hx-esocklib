@@ -1,4 +1,4 @@
-# <p align="center">hx-esocklib<p><p align="center"><a href="https://lib.haxe.org/p/esocklib"><img src="https://img.shields.io/badge/available_on-haxelib-EA8220?style=for-the-badge&logo=haxe"/></a> <img src="https://img.shields.io/badge/Version-0.0.1-0080FF?style=for-the-badge"> <img src="https://img.shields.io/badge/Early_development-FFD000?style=for-the-badge"></p>
+# <p align="center">hx-esocklib<p><p align="center"><a href="https://lib.haxe.org/p/esocklib"><img src="https://img.shields.io/badge/available_on-haxelib-EA8220?style=for-the-badge&logo=haxe"/></a> <img src="https://img.shields.io/badge/Version-0.0.2-0080FF?style=for-the-badge"> <img src="https://img.shields.io/badge/Early_development-FFD000?style=for-the-badge"></p>
 
 ### <p align="center">⚠️ Warning: This library was made to study Haxe networking.<br>This is mostly a Proof of Concept and may not receive many updates.</p>
 
